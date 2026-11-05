@@ -1,10 +1,10 @@
 # Planering
-
+en spelar duellar motsåndaren och får välja själv vilken kraften den vill använda.
 Planera innan du skriver kod. Här bestämmer du vad ditt spel ska vara, hur kampen fungerar och
 vilka kort du bygger det med. Visa planen och korten för läraren innan du börjar koda.
 
 ## Mitt spel
-
+spelaren är en sourcer som möter en hemsk varelse i en skog, spelaren kan välja mellan varje tur vilken ability. 
 Kraven är samma för alla. Vad gör ditt spel till ditt? Vem är du, vem slåss du mot, och var? Vad
 kan spelaren välja mellan varje tur? Finns det en regel som bara ditt spel har?
 
