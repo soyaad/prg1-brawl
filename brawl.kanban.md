@@ -6,17 +6,6 @@
 
 ## To Do
 
-#### Krav: spelet börjar
-<!-- id: task-1793100000002-2 -->
-namnet frågas efter, båda har HP och startvärdena syns. För stort för ett pass, dela upp det i dina egna kort
-<!-- priority: high -->
-<!-- source: main.py:1 -->
-
-#### Krav: kampen
-<!-- id: task-1793100000003-3 -->
-båda slår med slumpad skada tills någon har noll HP, i en while med and. En besegrad slår inte tillbaka. Vinnaren skrivs ut. Dela upp det
-<!-- priority: high -->
-
 #### Krav: ett val varje tur
 <!-- id: task-1793100000004-4 -->
 spelaren väljer varje tur, minst två alternativ som du hittar på. Kraschsäkert: katt ger en ny fråga. Dela upp det
@@ -44,6 +33,17 @@ spelaren får uppgradera sin karaktär så den blir starkare  genom att använda
 planering.md: ditt spel, planen och dina kort. Lägg in korten här. Visa läraren innan du skriver kod
 <!-- priority: critical -->
 <!-- source: planering.md:1 -->
+
+#### Krav: spelet börjar
+<!-- id: task-1793100000002-2 -->
+namnet frågas efter, båda har HP och startvärdena syns. För stort för ett pass, dela upp det i dina egna kort
+<!-- priority: high -->
+<!-- source: main.py:1 -->
+
+#### Krav: kampen
+<!-- id: task-1793100000003-3 -->
+båda slår med slumpad skada tills någon har noll HP, i en while med and. En besegrad slår inte tillbaka. Vinnaren skrivs ut. Dela upp det
+<!-- priority: high -->
 
 ## Done
 
