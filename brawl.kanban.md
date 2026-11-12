@@ -22,10 +22,6 @@ rubrikerna längst ner i readme.md. faser.md fylls i längs vägen och blir klar
 <!-- priority: high -->
 <!-- source: faser.md:1 -->
 
-#### uppgraderingar
-<!-- id: task-1793874148635-63 -->
-spelaren får uppgradera sin karaktär så den blir starkare  genom att använda shoppen. slumpen blir mellan högre nummer
-
 ## In Progress
 
 #### Planera och skriv dina kort
